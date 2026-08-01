@@ -70,6 +70,17 @@ The following issues were addressed:
 The cleaned dataset is now consistent, reliable, and ready for further analysis and visualization.
 
 ---
+## Project Screenshots
+
+### Before Data Cleaning
+
+<img width="789" height="299" alt="raw" src="https://github.com/user-attachments/assets/c2825c22-9067-4aa1-923d-4936cc11e22c" />
+
+
+
+### After Data Cleaning
+
+<img width="1287" height="393" alt="cleaned" src="https://github.com/user-attachments/assets/7b5612dd-ad94-466c-92aa-94e78b186cdf" />
 
 ## Contributors
 
